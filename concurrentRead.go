@@ -1,6 +1,6 @@
 /*
 #	ConcurrentRead.go
-#	Written by Kyle S. && Mike D.
+#	Written by Kyle Snow. && Mike Drolet.
 #	Last edit 10/20/20
 */
 package main
